@@ -1,9 +1,9 @@
 This is code example
 OUTPUT
-<pre>
-<samp>
+
+```
 x = 5;
 y = 6;
 z = x + y;
-</samp>
-</pre>
+```
+
